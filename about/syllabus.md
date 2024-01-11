@@ -14,15 +14,13 @@ Elements of this document are **fixed** and unchanging. -->
 
 **{{ TERM }}**
 
-<!-- **{{ MEETING_TIMES }}** -->
+**{{ MEETING_TIMES }}**
 
 **Mode of Delivery**  
-- Hybrid (in-person and online), refer to [course schedule](../lecture_notes.md) for modality of each class
+- Online
 
 **Location**  
-- Abbotsford, Building D, Room 242
-- Zoom
-    - Link: TBA
+- Zoom, [Link](https://bit.ly/BUS-160-ON1-ZOOM) 
 
 <!-- **Slack Invitation Link:** [Sign up for CIS 145 Slack Workspace](https://join.slack.com/t/cis-145-summer-2023/shared_invite/zt-1umoip7kj-u_q1OXCTZoPGmgSoI3ifUA) -->
 
@@ -33,7 +31,7 @@ Elements of this document are **fixed** and unchanging. -->
 
 **Email:** parsa.rajabi `[at]` ufv.ca (replace `[at]` with `@`)
 
-Note: When emailing, please put CIS 100 at the start of your subject line.
+Note: When emailing, please put CIS 110/BUS 160 at the start of your subject line and include your full name, student number and course code/section in the body of the email.
 
 <!-- **Slack:** @parsa -->
 
@@ -45,7 +43,7 @@ Note: When emailing, please put CIS 100 at the start of your subject line.
 
 **Email:** navneet.jhangra `[at]` student.ufv.ca (replace `[at]` with `@`)
 
-Note: When emailing, please put CIS 100 at the start of your subject line.
+Note: When emailing, please put CIS 110/BUS 160 at the start of your subject line and include your full name, student number and course code/section in the body of the email.
 
 <!-- **Slack:** @Navneet Jhangra -->
 
@@ -78,21 +76,21 @@ More details about the course can be found on [CIS 145 - UFV Academic Calendar](
 ## Required Materials
 
 ```{warning}
-You will not be able to complete this course with another section's textbooks as they differ. Make sure to select CIS 100 AB2 as your course/section and see "Parsa Rajabi" as instructor.
+You will not be able to complete this course with another section's textbooks as they differ. Make sure to select BUS 160 ON1 as your course/section and see "Parsa Rajabi" as instructor.
 ```
 
-The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
-[Link to purchase from UFV Bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT24,CIS,CIS100AB2,&)
 
-![CIS 100 Textbook](../images/CIS100-Textbook.png)
+[Link to purchase from UFV Bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT24,BUS,BUS160ON1,&)
+
+![BUS 160 Textbook](../images/BUS160-Textbook.png)
 
 ## Course Evaluation
 
-```{include} syllabus_bits/grading_practices_detailed.md
+<!-- ```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
-![Grade Letters](../images/grade_letters.png)
+![Grade Letters](../images/grade_letters.png) -->
 
 <!-- ## Passing Criteria
 

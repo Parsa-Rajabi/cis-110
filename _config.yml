@@ -1,5 +1,5 @@
 # Book settings
-title: CIS 100 
+title: CIS 110 
 author: Parsa Rajabi
 logo: images/ufv-logo.png
 copyright: ""
@@ -18,12 +18,12 @@ html:
   use_issues_button: false
   use_edit_page_button: false
   navbar_number_sections : false
-  baseurl : "https://parsa-rajabi.github.io/cis-100/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://parsa-rajabi.github.io/cis-110/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
 #   google_analytics_id: G-LFY5151T35 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
-      repo: "Parsa-Rajabi/cis-100"
+      repo: "Parsa-Rajabi/cis-110"
     dokieli: false
   extra_footer : |
       <div>
@@ -62,15 +62,15 @@ sphinx:
       PRONOUNCE: "Pa-r-sa Ra-ja-bi"
       # OFFICE: "TBD"
       # PHONE: "N/A"
-      COURSE_CODE: "CIS 100"
-      SECTION: "AB2"
+      COURSE_CODE: "CIS 110"
+      SECTION: "ON1"
       CREDITS: "3"
-      TITLE: "Introduction to Computers and Digital Technologies"
-      PREREQS: "Prerequisite(s): None."
+      TITLE: "Computerized Business Applications and MIS"
+      PREREQS: "Prerequisite(s): None. It is recommended that students are competent in computer skills."
       # COREQS: "N/A"
       TERM: "2024 Spring"
       # ROOM: "Bldg D 204 and 242"
-      # MEETING_TIMES: "Thursdays, 8:30-11:20 PST"
+      MEETING_TIMES: "Thursdays, 8:30-11:20 am PST"
       # GRACE_PERIOD: "48 hour"
       # W_DATE_1: "11:59 PDT on January 22, 2021"
       # W_DATE_2: "11:59 PDT on March 26, 2021"
