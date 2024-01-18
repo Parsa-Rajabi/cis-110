@@ -1,14 +1,12 @@
 The grading scheme for this course is: 
 
-TBA
-
-<!-- |      **Item**      | **Weight** |
-| :----------------: | :--------: |
-|   Participation    |    10%     |
-|    Module Tests    |    15%     |
-|    Assignments     |    20%     |
-|      Quizzes       |    25%     |
-| Final Exam/Project |    30%     | -->
+|    **Item**     | **Weight** |
+| :-------------: | :--------: |
+|  Participation  |    10%     |
+|  Module Tests   |    15%     |
+|   Assignments   |    20%     |
+|     Quizzes     |    25%     |
+| Final Component |    30%     |
 
 <!-- |       Item                     | Weight |            Due date(s)             | Frequency |
 |:------------------------------:|:------:|:----------------------------------:|:---------:|
