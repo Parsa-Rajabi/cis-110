@@ -71,7 +71,7 @@ The Learning Outcomes for this course are:
 ```{include} syllabus_bits/course_LOs.md
 ```
 
-More details about the course can be found on [CIS 145 - UFV Academic Calendar](https://www.ufv.ca/calendar/current/)
+More details about the course can be found on [UFV Academic Calendar](https://www.ufv.ca/calendar/current/)
 
 ## Required Materials
 
@@ -87,19 +87,40 @@ You will not be able to complete this course with another section's textbooks as
 
 ## Course Evaluation
 
-<!-- ```{include} syllabus_bits/grading_practices_detailed.md
+```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
-![Grade Letters](../images/grade_letters.png) -->
+![Grade Letters](../images/grade_letters.png)
+
+
+### Course Attendance Policy
+
+Attendance is a vital component of this course and is directly linked to your participation grade. Students are expected to attend every lecture to fully engage with the course material and contribute to class discussions. Your presence and active participation are crucial for a comprehensive learning experience.
+
+#### Attendance Guidelines:
+
+**Mandatory Attendance:** Regular attendance is expected for all lectures. Participation in each lecture contributes to your overall participation grade.
+
+**Allowance for Absences:** Recognizing the need for flexibility, each student is permitted to miss up to four lectures during the course without impacting their participation grade. These absences do not require justification and are intended to accommodate unforeseen circumstances, such as illness or personal emergencies.
+
+**Exceeding Absence Limit:** If a student misses more than 4 lectures, they will receive a score of 0 for the participation component of their grade. This policy is in place to ensure fairness and to emphasize the importance of consistent attendance.
+
+**Responsibility to Catch Up:** Students who miss a lecture are responsible for obtaining the missed material and notes from their peers or the course resources. It is advisable to stay informed about what was covered during the absence to keep up with the course progression.
+
+**Communication of Absences:** While the four allowed absences do not require formal notification, I encourage students to communicate any extended absences or special circumstances to the instructor as soon as possible.
+
+**Special Considerations:** Exceptions to this policy may be considered on a case-by-case basis for serious and documented reasons, such as medical emergencies or significant personal issues. Students seeking an exception should contact the instructor directly with relevant documentation to discuss their situation.
 
 <!-- ## Passing Criteria
 
 ```{include} syllabus_bits/passing_requirement.md
 ``` -->
 
-<!-- ## Late Policy and Missed Assignments/Exams
+## Late Policy and Missed Assignments/Exams
 
-All course elements (including but limited to) assignments, quizzes, weekly activities and exams are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. -->
+Assignments and module tests can be submitted up to 24 hours after the due date with 10% late penalty. No submissions will be accepted after 24 hours. 
+
+Missed exams, quizzes, projects and final project/exam will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 <!-- ```{include} syllabus_bits/policies.md
 ``` -->
