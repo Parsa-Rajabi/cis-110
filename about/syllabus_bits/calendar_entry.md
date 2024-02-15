@@ -1,7 +1,11 @@
 **{{ COURSE_CODE }} ({{ CREDITS }}) {{ TITLE }}**
 
-The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions/CIS.htm#:~:text=offered%20every%20semester.-,CIS%20100,-3%20credits) of this course is:
+The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions) of this course is:
 
-> Hands-on approach to learning the basics of operating systems, file management, knowledge management, cloud computing, and communications technology. Learn software skills relevant to student success in other courses, such as word processing, presentations, spreadsheets, and graphics.
+> This course covers understanding, application, and advanced skill development in spreadsheets, databases, presentation software, and word-processing, integrated with an introduction to Management Information Systems (MIS). Emphasis is on problem solving and integration of software applications within a MIS context.
 >
-> Prerequisite(s): None.
+> Note: Students with credit for CIS 110 cannot take this course for further credit.
+>
+> Prerequisite(s): None. It is recommended that students are competent in computer skills
+> Corequisite(s): None.
+> Pre- or corequisite(s): None.
