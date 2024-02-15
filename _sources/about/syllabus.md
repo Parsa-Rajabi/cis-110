@@ -20,7 +20,7 @@ Elements of this document are **fixed** and unchanging. -->
 - Online
 
 **Location**  
-- Zoom, [Link](https://bit.ly/BUS-160-ON1-ZOOM) 
+- Zoom: [Link](https://bit.ly/BUS-160-ON1-ZOOM) 
 
 <!-- **Slack Invitation Link:** [Sign up for CIS 145 Slack Workspace](https://join.slack.com/t/cis-145-summer-2023/shared_invite/zt-1umoip7kj-u_q1OXCTZoPGmgSoI3ifUA) -->
 
@@ -78,8 +78,6 @@ More details about the course can be found on [UFV Academic Calendar](https://ww
 ```{warning}
 You will not be able to complete this course with another section's textbooks as they differ. Make sure to select BUS 160 ON1 as your course/section and see "Parsa Rajabi" as instructor.
 ```
-
-
 
 [Link to purchase from UFV Bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,WINT24,BUS,BUS160ON1,&)
 
