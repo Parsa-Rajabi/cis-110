@@ -20,8 +20,8 @@ All in-class code examples can be found on [this page](https://github.com/Parsa-
 | 8  | Feb 29  | MS PPT (1-3)  | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiOUdsZlRwcU5JMko5azRGaVNPcXNZTlVUMXFlYVl1eU9HQ3VTQzRyamEyODV3U1Jpajd3WXpYNEtqb0txU0tSZENzaFlGYk9NSnYvcmtRQzdWTmw4L1hMWFY5RDVhSk5JVGIwNUtpbzZNUFRUNlE0Mnd3QjVQY21ZTnFrcmsrempaN3dQR2xzTGovMVIyOUR3SHdxVkdYYmU1KzQ9IiwicyI6InJaZnd3SnhZWXBhaXlKN1FZbktJU0E9PSIsImkiOiI5WGZzKy85dFVFMXJIKzhFIn0=)  |  [Notes](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZmFvUmFkeVFiWEkrNG5pWXU3VXJ3Zm1yU0lxN1JNRmMyMzY2eWVnUXBnMnk5VFAyU0tQQ2krMVY5MEw2bkltSjkrcHVNYnRwdFNCT2xKREo4L1hqOFp3UTJNQUdKQXBTTzZjd1BGU0gvbVQvSk9GbUg3SCtvQmRJWmxvYVViS1VSSS9taXlzVVRaU2REMi9LZnBMSWVvbFVQQWc9IiwicyI6Ild2SzhSNDR3OEpkblhOWVdWOS9HZ1E9PSIsImkiOiIvcUdkZHdYTmJKekpyMkFsIn0=) |
 | 9  | Mar 7    | MS PPT (4-7)  | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiS21vTkczZ0YwenNGK0psZ1V2ZGtORnNSYStGNW9haUo4TlBLSlJWaHNnelRUOHBhQkpENlpFMTF3WDZCMWYxRkFMQUlLSHFrb29tTFNtUFNxVjl3M1FXVjRuMmk3UlhWMWV2TmZ0SkFSdTFuV2s5WEhZQzIvazc1dEZvMjlabVh2RjVISHA1MzRNYjBNYWE4WG1jUFRPTDhLamc9IiwicyI6IllZS1ZKa1Fqajg5c3VyRkg5ZGMxb1E9PSIsImkiOiJYN1VnNTVOWm9LSFgwQVp2In0=)  | [Notes](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoid1Nod3BmSEhheVhFQnFLc2JpYUEyUGxmM1dnZm1KOHBnMFZadW1ldjJlTmlyV3dPb0VscEJLUEhxOHBFaW5hY1ZlOEs5MTZZWFRveWZ2cDEyQkg2ZHZnSnZHVWp3RHFIdVVGVE1FWmh2OTVNcC9wd3VsY1dIYjRmc2pTY01HTFVUM0cvZHl3SnRFRGhCdjJuZkl6enRQS0ZWVmc9IiwicyI6Imd1K1Z2THJOUWZoNTJnUkNlbm16Vmc9PSIsImkiOiJLcnRzbjFRUE5ORWNaNWg4In0= )  |
 | 10  | Mar 14  | Quiz #2  |   |   |
-| 11  | Mar 21  |   |   |   |
-| 12  | Mar 28  |         |   |   |
-| 13  | Apr 4   |          |   |   |
+| 11  | Mar 21  | No Lecture; Check Email Announcement   |   |   |
+| 12  | Mar 28  | 9-10   |  MS Excel (1-5)            | -  | -  |
+| 13  | Apr 4   | 10-11  |  MS Excel (6-11)           |   |   |
 <!-- | 12  | Mar 28  | MS Excel (1-5)  |   |   | -->
 <!-- | 13  | Apr 4  | MS Excel (6-11)  |   |   | -->
